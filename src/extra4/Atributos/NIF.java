@@ -4,7 +4,8 @@ package extra4.Atributos;
 public class NIF {
     private int DNI;
     private char letra;
-
+    private String atributos1;
+    
     public NIF() {
     }
     public NIF(int DNI, char letra) {
